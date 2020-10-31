@@ -64,3 +64,16 @@ We're happy to merge valid pull requests to this repository!
 ### congratulation!
 You contributed to open source project & sit relax wait for review. Thank you.
 ### If you like this repo, drop a ⭐
+
+Documentation is an integral part of any project .
+Create a prper documentation with following aspects
+project
+purpose
+objective 
+problems 
+flowchart 
+diagram 
+results
+conclusions 
+future scope
+Also add a small ppt regarding your project
